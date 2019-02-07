@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessAssessmentToolServices", "ProcessAssessmentToolServices\ProcessAssessmentToolServices.csproj", "{AEB7D852-5689-4863-937D-770938B0CE16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessAssessmentToolServices.Tests", "ProcessAssessmentToolServices.Tests\ProcessAssessmentToolServices.Tests.csproj", "{DFBDA04A-9E1A-4ADF-9BDC-2DD7F0ED5439}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB7D852-5689-4863-937D-770938B0CE16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB7D852-5689-4863-937D-770938B0CE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB7D852-5689-4863-937D-770938B0CE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB7D852-5689-4863-937D-770938B0CE16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFBDA04A-9E1A-4ADF-9BDC-2DD7F0ED5439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBDA04A-9E1A-4ADF-9BDC-2DD7F0ED5439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBDA04A-9E1A-4ADF-9BDC-2DD7F0ED5439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBDA04A-9E1A-4ADF-9BDC-2DD7F0ED5439}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB034E42-BC76-41C6-8159-5BB9F74522CC}
+	EndGlobalSection
+EndGlobal
